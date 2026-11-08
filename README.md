@@ -1,4 +1,4 @@
-Neuroscientist | Python, R & MATLAB | Data Science, Statistical Modelling & Computational Biology
+Neuroscientist | Python, R & MATLAB | Data Science, Statistical Modelling & Computational Biology | Vibe Coder | Open to Collaborations
 
 <!---
 jfguarracino/jfguarracino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
